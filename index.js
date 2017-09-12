@@ -2,7 +2,7 @@ const express = require('express')
 const soap = require('soap')
 const bodyParser = require('body-parser')
 
-const STUDENT_SERVICE_URL = 'http://193.10.202.71/UserServiceApplication/UserService.svc?wsdl'
+const STUDENT_SERVICE_URL = 'http://111.222.333.444/UserServiceApplication/UserService.svc?wsdl'
 const app = express()
 
 app.use(bodyParser.urlencoded({
