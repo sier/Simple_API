@@ -1,6 +1,6 @@
-# hampus_API
+# Simple_API
 
-#HowTo Use
+## How To Use
 
 1. Open Terminal/Powershell.
 2. Type "node index.js"
