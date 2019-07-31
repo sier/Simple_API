@@ -1,5 +1,5 @@
 # Simple Node API for use with .NET web services
-![build-status](https://travis-ci.com/sier/Simple_API.svg?branch=master) ![GitHub-License](https://img.shields.io/github/license/sier/Simple_API) ![Maintenance](https://img.shields.io/maintenance/no/2017)
+![build-status](https://travis-ci.com/sier/Simple_API.svg?branch=master) ![GitHub-License](https://img.shields.io/github/license/sier/Simple_API) ![updated](https://img.shields.io/badge/updated-July%202019-red) ![Maintenance](https://img.shields.io/maintenance/no/2017?style=for-the-badge)
 
 A simple API built with Nodejs to retrieve data from .NET web services.
 
