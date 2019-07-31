@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "lts/*"
+os: osx
+
+install:
+  - sudo npm install --unsafe-perm=true --allow-root
+  - sudo node index.js
+  - echo Test Successful!
