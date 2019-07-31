@@ -7,6 +7,7 @@ A simple API built with Nodejs to retrieve data from .NET web services.
 ## Installation
 
 Clone the script from github into a directory of your choice (where you have read and write permission)
+
 Run npm install to install dependencies.
 
 ```bash
