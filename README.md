@@ -11,7 +11,7 @@ Clone the script from github into a directory of your choice (where you have rea
 Run npm install to install dependencies.
 
 ```bash
-git clone https://github.com/sier/automated-file-and-image-download-shell-script.git
+git clone https://github.com/sier/Simple_API.git
 npm install
 ```
 
